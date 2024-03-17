@@ -131,8 +131,8 @@
 ![[Secretaria.png]]:::うけつけ
 
 ![[Serpiente.png]]:::へび
-
-![[Si.png]]:::あい
+h
+![[Si.png]]:::はい
 
 ![[Silla.png]]:::いす
 
