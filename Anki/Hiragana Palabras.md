@@ -50,7 +50,7 @@
 
 ![[Escritorio.png]]:::つくえ
 
-![[Escuela.png]]:::だっこう
+![[Escuela.png]]:::がっこう
 
 ![[EscuelaSecundaria.png]]:::こうこう
 
