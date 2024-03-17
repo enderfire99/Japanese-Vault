@@ -62,7 +62,7 @@
 
 ![[Estudiante.png]]:::がくせい
 
-![[Familia.png]]:::かそき
+![[Familia.png]]:::かそく
 
 ![[Flor.png]]:::はな
 
