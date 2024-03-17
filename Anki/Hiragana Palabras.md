@@ -1,162 +1,162 @@
-![[5.png]]:::
+![[5.png]]:::ご
 
-![[Abajo.png]]:::
+![[Abajo.png]]:::した
 
-![[Aeropuerto.png]]:::
+![[Aeropuerto.png]]:::くうこう
 
-![[Agua.png]]:::
+![[Agua.png]]:::みず
 
-![[Alcohol.png]]:::
+![[Alcohol.png]]:::さけ
 
-![[Amigos.png]]:::
+![[Amigos.png]]:::ともだち
 
-![[Amor.png]]:::
+![[Amor.png]]:::あい
 
-![[Arbol.png]]:::
+![[Arbol.png]]:::き
 
-![[Arcoiris.png]]:::
+![[Arcoiris.png]]:::にじ
 
-![[Arriba.png]]:::
+![[Arriba.png]]:::うえ
 
-![[Azul.png]]:::
+![[Azul.png]]:::あお
 
-![[Barco.png]]:::
+![[Barco.png]]:::ふね
 
-![[Bicho.png]]:::
+![[Bicho.png]]:::むし
 
-![[Caballo.png]]:::
+![[Caballo.png]]:::うま
 
-![[Cara.png]]:::
+![[Cara.png]]:::かお
 
-![[Carne.png]]:::
+![[Carne.png]]::にく
 
-![[CarneCerdo.png]]:::
+![[CarneCerdo.png]]:::ぶたにく
 
-![[Carta.png]]:::
+![[Carta.png]]:::てがみ
 
-![[Casa.png]]:::
+![[Casa.png]]:::いえ
 
-![[Celular.png]]:::
+![[Celular.png]]:::けいたい
 
-![[Cine.png]]:::
+![[Cine.png]]:::えいが
 
-![[Ciudad.png]]:::
+![[Ciudad.png]]:::まち
 
-![[Dar.png]]:::
+![[Dar.png]]:::どうぞ
 
-![[Dibujo.png]]:::
+![[Dibujo.png]]:::え
 
-![[Dinero.png]]:::
+![[Dinero.png]]:::おかね
 
-![[Escritorio.png]]:::
+![[Escritorio.png]]:::つくえ
 
-![[Escuela.png]]:::
+![[Escuela.png]]:::だっこう
 
-![[EscuelaSecundaria.png]]:::
+![[EscuelaSecundaria.png]]:::こうこう
 
-![[Estampilla.png]]:::
+![[Estampilla.png]]:::きって
 
-![[EsteAño.png]]:::
+![[EsteAño.png]]:::ことし
 
-![[Estrellas.png]]:::
+![[Estrellas.png]]:::ほし
 
-![[Estudiante.png]]:::
+![[Estudiante.png]]:::がくせい
 
-![[Familia.png]]:::
+![[Familia.png]]:::かそき
 
-![[Flor.png]]:::
+![[Flor.png]]:::はな
 
-![[Frutilla.png]]:::
+![[Frutilla.png]]:::いちご
 
-![[Gato.png]]:::
+![[Gato.png]]:::ねこ
 
-![[Hanabi.png]]:::
+![[Hanabi.png]]:::はなび
 
-![[Hojas-Dios.png]]:::
+![[Hojas-Dios.png]]:::かみ
 
-![[Hombre.png]]:::
+![[Hombre.png]]:::おとこ
 
-![[Hoy.png]]:::
+![[Hoy.png]]:::おした
 
-![[Huevo.png]]:::
+![[Huevo.png]]:::たまご
 
-![[IdiomasExtranjeros.png]]:::
+![[IdiomasExtranjeros.png]]:::がいこくご
 
-![[Ingles.png]]:::
+![[Ingles.png]]:::えいご
 
-![[Lentes.png]]:::
+![[Lentes.png]]:::めがね
 
-![[Lllave.png]]:::
+![[Lllave.png]]:::かぎ
 
-![[Lluvia.png]]:::
+![[Lluvia.png]]:::あめ
 
-![[Luna.png]]:::
+![[Luna.png]]:::つき
 
-![[Mañana.png]]:::
+![[Mañana.png]]:::あさ
 
-![[Mar.png]]:::
+![[Mar.png]]:::うみ
 
-![[Medias.png]]:::
+![[Medias.png]]:::くつした
 
-![[Natacion-Nadar.png]]:::
+![[Natacion-Nadar.png]]:::すいえい
 
-![[NO.png]]:::
+![[NO.png]]:::いえ
 
-![[Nombre.png]]:::
+![[Nombre.png]]:::なまえ
 
-![[Nube.png]]:::
+![[Nube.png]]:::くも
 
-![[Ojos.png]]:::
+![[Ojos.png]]:::め
 
-![[Paises.png]]:::
+![[Paises.png]]:::くに
 
-![[Palitos.png]]:::
+![[Palitos.png]]:::はし
 
-![[Paraguas.png]]:::
+![[Paraguas.png]]:::かさ
 
-![[Perro.png]]:::
+![[Perro.png]]:::いぬ
 
-![[Personas.png]]:::
+![[Personas.png]]:::ひと
 
-![[Pez.png]]:::
+![[Pez.png]]:::さかな
 
-![[Pierna-Pie.png]]:::
+![[Pierna-Pie.png]]:::あし
 
-![[Reloj.png]]:::
+![[Reloj.png]]:::とけい
 
-![[Revista.png]]:::
+![[Revista.png]]:::ざっし
 
-![[Rojo.png]]:::
+![[Rojo.png]]:::あか
 
-![[Secretaria.png]]:::
+![[Secretaria.png]]:::うけつけ
 
-![[Serpiente.png]]:::
+![[Serpiente.png]]:::へび
 
-![[Si.png]]:::
+![[Si.png]]:::あい
 
-![[Silla.png]]:::
+![[Silla.png]]:::いす
 
-![[Subte.png]]:::
+![[Subte.png]]:::ちかてつ
 
-![[Sushi.png]]:::
+![[Sushi.png]]:::すし
 
-![[Tabaco.png]]:::
+![[Tabaco.png]]:::たばこ
 
-![[Tienda.png]]:::
+![[Tienda.png]]:::みせ
 
-![[Tijeras.png]]:::
+![[Tijeras.png]]:::はさみ
 
-![[Trabajo.png]]:::
+![[Trabajo.png]]:::しごと
 
-![[Universidad.png]]:::
+![[Universidad.png]]:::だいがく
 
-![[Uno.png]]:::
+![[Uno.png]]:::いち
 
-![[Vaca.png]]:::
+![[Vaca.png]]:::うし
 
-![[Verano.png]]:::
+![[Verano.png]]:::なつ
 
-![[Voz.png]]:::
+![[Voz.png]]:::こえ
 
-![[Zapato.png]]:::
+![[Zapato.png]]:::くつ
 

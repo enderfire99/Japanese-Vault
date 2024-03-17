@@ -1,86 +1,86 @@
 
-![[A-Char.png]] :: A <!--SR:!2024-03-16,4,270-->
-![[I-Char.png]]::I <!--SR:!2024-03-16,4,270-->
-![[U-Char.png]]::U <!--SR:!2024-03-16,4,270-->
-![[E-Char.png]]::E <!--SR:!2024-03-16,4,270-->
-![[O-Char.png]]::O <!--SR:!2024-03-16,4,270-->
-![[Ka-Char.png]]::Ka <!--SR:!2024-03-16,4,270-->
-![[Ki-Char.png]]::Ki <!--SR:!2024-03-16,4,270-->
-![[Ku-Char.png]]::Ku <!--SR:!2024-03-16,4,270-->
-![[Ke-Char.png]]::Ke <!--SR:!2024-03-16,4,270-->
-![[Ko-Char.png]]::Ko <!--SR:!2024-03-15,3,250-->
-![[Ga-Char.png]]::Ga <!--SR:!2024-03-16,4,270-->
-![[Gi-Char.png]]::Gi <!--SR:!2024-03-16,4,270-->
-![[Gu-Char.png]]::Gu <!--SR:!2024-03-16,4,270-->
-![[Ge-Char.png]]::Ge <!--SR:!2024-03-16,4,270-->
-![[Go-Char.png]]::Go <!--SR:!2024-03-16,4,270-->
-![[Sa-Char.png]]::Sa <!--SR:!2024-03-16,4,270-->
-![[Shi-Char.png]]::Shi <!--SR:!2024-03-16,4,270-->
-![[Su-Char.png]]::Su <!--SR:!2024-03-16,4,270-->
-![[Se-Char.png]]::Se <!--SR:!2024-03-15,3,250-->
-![[So-Char.png]]::So <!--SR:!2024-03-15,3,250-->
-![[Za-Char.png]]::Za <!--SR:!2024-03-16,4,270-->
-![[Ji(Shi Impuro)-Char.png]]::Ji(Shi Impuro) <!--SR:!2024-03-16,4,270-->
-![[Zu-Char.png]]::Zu <!--SR:!2024-03-13,1,230-->
-![[Ze-Char.png]]::Ze <!--SR:!2024-03-13,1,230-->
-![[Zo-Char.png]]::Zo <!--SR:!2024-03-13,1,230-->
+![[A-Char.png]] :: A <!--SR:!2024-04-01,15,290-->
+![[I-Char.png]]::I <!--SR:!2024-04-02,16,290-->
+![[U-Char.png]]::U <!--SR:!2024-03-30,13,290-->
+![[E-Char.png]]::E <!--SR:!2024-04-03,17,290-->
+![[O-Char.png]]::O <!--SR:!2024-03-30,13,290-->
+![[Ka-Char.png]]::Ka <!--SR:!2024-03-30,13,290-->
+![[Ki-Char.png]]::Ki <!--SR:!2024-04-02,16,290-->
+![[Ku-Char.png]]::Ku <!--SR:!2024-03-30,13,290-->
+![[Ke-Char.png]]::Ke <!--SR:!2024-03-19,2,250-->
+![[Ko-Char.png]]::Ko <!--SR:!2024-03-25,10,270-->
+![[Ga-Char.png]]::Ga <!--SR:!2024-03-31,14,290-->
+![[Gi-Char.png]]::Gi <!--SR:!2024-03-19,2,250-->
+![[Gu-Char.png]]::Gu <!--SR:!2024-03-31,14,290-->
+![[Ge-Char.png]]::Ge <!--SR:!2024-03-19,2,250-->
+![[Go-Char.png]]::Go <!--SR:!2024-04-02,16,290-->
+![[Sa-Char.png]]::Sa <!--SR:!2024-03-31,14,290-->
+![[Shi-Char.png]]::Shi <!--SR:!2024-04-03,17,290-->
+![[Su-Char.png]]::Su <!--SR:!2024-04-01,15,290-->
+![[Se-Char.png]]::Se <!--SR:!2024-03-26,11,270-->
+![[So-Char.png]]::So <!--SR:!2024-03-18,1,210-->
+![[Za-Char.png]]::Za <!--SR:!2024-04-03,17,290-->
+![[Ji(Shi Impuro)-Char.png]]::Ji(Shi Impuro) <!--SR:!2024-03-31,14,290-->
+![[Zu-Char.png]]::Zu <!--SR:!2024-03-28,11,270-->
+![[Ze-Char.png]]::Ze <!--SR:!2024-03-21,6,250-->
+![[Zo-Char.png]]::Zo <!--SR:!2024-03-18,3,230-->
 
-![[Ta-Char.png]]::Ta <!--SR:!2024-03-16,4,270-->
-![[Chi-Char.png]]::Chi <!--SR:!2024-03-16,4,270-->
-![[Tsu-Char.png]]::Tsu <!--SR:!2024-03-16,4,270-->
-![[Te-Char.png]]::Te <!--SR:!2024-03-16,4,270-->
-![[To-Char.png]]::To <!--SR:!2024-03-16,4,270-->
-![[Da-Char.png]]::Da <!--SR:!2024-03-16,4,270-->
-![[Ji(Chi Impuro)-Char.png]]::Ji(Chi Impuro) <!--SR:!2024-03-16,4,270-->
-![[Zu(Tsu Impuro)-Char.png]]::Zu(Tsu Impuro)<!--SR:!2024-03-16,4,270-->
-![[De-Char.png]]::De <!--SR:!2024-03-16,4,270-->
-![[Do-Char.png]]::Do <!--SR:!2024-03-16,4,270-->
+![[Ta-Char.png]]::Ta <!--SR:!2024-03-29,12,270-->
+![[Chi-Char.png]]::Chi <!--SR:!2024-03-30,13,290-->
+![[Tsu-Char.png]]::Tsu <!--SR:!2024-03-31,14,290-->
+![[Te-Char.png]]::Te <!--SR:!2024-03-31,14,290-->
+![[To-Char.png]]::To <!--SR:!2024-03-31,14,290-->
+![[Da-Char.png]]::Da <!--SR:!2024-04-01,15,290-->
+![[Ji(Chi Impuro)-Char.png]]::Ji(Chi Impuro) <!--SR:!2024-03-31,14,290-->
+![[Zu(Tsu Impuro)-Char.png]]::Zu(Tsu Impuro) <!--SR:!2024-03-19,2,250-->
+![[De-Char.png]]::De <!--SR:!2024-03-27,10,270-->
+![[Do-Char.png]]::Do <!--SR:!2024-04-01,15,290-->
 
-![[Na-Char.png]]::Na 
+![[Na-Char.png]]::Na <!--SR:!2024-03-19,2,223-->
 
-![[Ni-Char.png]]::Ni 
+![[Ni-Char.png]]::Ni <!--SR:!2024-03-23,6,263-->
 
-![[Nu-Char.png]]::Nu 
-![[Ne-Char.png]]::Ne 
+![[Nu-Char.png]]::Nu <!--SR:!2024-03-18,1,203-->
+![[Ne-Char.png]]::Ne <!--SR:!2024-03-19,2,223-->
 
-![[No-Char.png]]::No 
+![[No-Char.png]]::No <!--SR:!2024-03-19,2,243-->
 
-![[Ha-Char.png]]::Ha 
-![[Hi-Char.png]]::Hi 
+![[Ha-Char.png]]::Ha <!--SR:!2024-03-19,2,223-->
+![[Hi-Char.png]]::Hi <!--SR:!2024-04-04,18,303-->
 
-![[Fu-Char.png]]::Fu 
+![[Fu-Char.png]]::Fu <!--SR:!2024-04-04,18,303-->
 
-![[He-Char.png]]::He 
+![[He-Char.png]]::He <!--SR:!2024-03-19,2,263-->
 
-![[Ho-Char.png]]::Ho 
+![[Ho-Char.png]]::Ho <!--SR:!2024-03-18,1,203-->
 
-![[Ba-Char.png]]::Ba 
+![[Ba-Char.png]]::Ba <!--SR:!2024-03-19,2,243-->
 
-![[Bi-Char.png]]::Bi 
+![[Bi-Char.png]]::Bi <!--SR:!2024-03-18,3,263-->
 
-![[Bu-Char.png]]::Bu 
+![[Bu-Char.png]]::Bu <!--SR:!2024-04-03,17,303-->
 
-![[Be-Char.png]]::Be 
+![[Be-Char.png]]::Be <!--SR:!2024-03-18,3,263-->
 
-![[Bo-Char.png]]::Bo 
+![[Bo-Char.png]]::Bo <!--SR:!2024-03-20,3,243-->
 
-![[Pa-Char.png]]::Pa 
+![[Pa-Char.png]]::Pa <!--SR:!2024-03-19,2,263-->
 
-![[Pi-Char.png]]::Pi 
+![[Pi-Char.png]]::Pi <!--SR:!2024-03-18,3,263-->
 
-![[Pu-Char.png]]::Pu 
+![[Pu-Char.png]]::Pu <!--SR:!2024-04-03,17,303-->
 
-![[Pe-Char.png]]::Pe 
+![[Pe-Char.png]]::Pe <!--SR:!2024-03-18,3,263-->
 
-![[Po-Char.png]]::Po 
+![[Po-Char.png]]::Po <!--SR:!2024-04-03,17,303-->
 
-![[Ma-Char.png]]::Ma 
+![[Ma-Char.png]]::Ma <!--SR:!2024-04-04,18,303-->
 
-![[Mi-Char.png]]::Mi 
+![[Mi-Char.png]]::Mi <!--SR:!2024-03-18,1,203-->
 
-![[Mu-Char.png]]::Mu 
+![[Mu-Char.png]]::Mu <!--SR:!2024-03-18,1,222-->
 
-![[Me-Char.png]]::Me 
+![[Me-Char.png]]::Me <!--SR:!2024-03-19,2,223-->
 
-![[Mo-Char.png]]::Mo 
+![[Mo-Char.png]]::Mo <!--SR:!2024-03-20,3,243-->
 
