@@ -34,7 +34,7 @@
 
 ![[Carta.png]]:::てがみ
 
-![[Casa.png]]:::いえ
+![[Casa.png]]:::いいえ
 
 ![[Celular.png]]:::けいたい
 
