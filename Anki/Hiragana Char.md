@@ -84,94 +84,94 @@
 
 ![[Mo-Char.png]]::Mo <!--SR:!2024-03-20,3,243-->
 
-![[Ya-Char.png]]::
+![[Ya-Char.png]]::Ya
 
 
-![[Yu-Char.png]]::
+![[Yu-Char.png]]::Yu 
 
-![[Yo-Char.png]]::
+![[Yo-Char.png]]::Yo 
 
-![[Ra-Char.png]]::
+![[Ra-Char.png]]::Ra 
 
-![[Ri-Char.png]]::
+![[Ri-Char.png]]::Ri 
 
-![[Ru-Char.png]]::
+![[Ru-Char.png]]::Ru 
 
-![[Re-Char.png]]::
+![[Re-Char.png]]::Re 
 
-![[Ro-Char.png]]::
+![[Ro-Char.png]]::Ro 
 
-![[Wa-Char.png]]::
+![[Wa-Char.png]]::Wa 
 
-![[Wo-Char.png]]::
+![[Wo-Char.png]]::Wo 
 
-![[N-Char.png]]::
+![[N-Char.png]]::N 
 
-![[Kya-Char.png]]::
+![[Kya-Char.png]]::Kya 
 
-![[Kyu-Char.png]]::
+![[Kyu-Char.png]]::Kyu 
 
-![[Kyo-Char.png]]::
+![[Kyo-Char.png]]::Kyo 
 
-![[Gya-Char.png]]::
+![[Gya-Char.png]]::Gya 
 
-![[Gyu-Char.png]]::
+![[Gyu-Char.png]]::Gyu 
 
-![[Gyo-Char.png]]::
+![[Gyo-Char.png]]::Gyo 
 
-![[Sha-Char.png]]::
+![[Sha-Char.png]]::Sha 
 
-![[Shu-Char.png]]::
+![[Shu-Char.png]]::Shu 
 
-![[Sho-Char.png]]::
+![[Sho-Char.png]]::Sho 
 
-![[Ja-Char.png]]::
+![[Ja-Char.png]]::Ja 
 
-![[Ju-Char.png]]::
+![[Ju-Char.png]]::Ju 
 
-![[Jo-Char.png]]::
+![[Jo-Char.png]]::Jo 
 
-![[Cha-Char.png]]::
+![[Cha-Char.png]]::Cha 
 
-![[Chu-Char.png]]::
+![[Chu-Char.png]]::Chu 
 
-![[Cho-Char.png]]::
+![[Cho-Char.png]]::Cho 
 
-![[Nya-Char.png]]::
+![[Nya-Char.png]]::Nya 
 
-![[Nyu-Char.png]]::
+![[Nyu-Char.png]]::Nyu 
 
-![[Nyo-Char.png]]::
+![[Nyo-Char.png]]::Nyo 
 
-![[Hya-Char.png]]::
+![[Hya-Char.png]]::Hya 
 
-![[Hyu-Char.png]]::
+![[Hyu-Char.png]]::Hyu 
 
-![[Hyo-Char.png]]::
+![[Hyo-Char.png]]::Hyo 
 
-![[Bya-Char.png]]::
+![[Bya-Char.png]]::Bya 
 
-![[Byu-Char.png]]::
+![[Byu-Char.png]]::Byu 
 
-![[Byo-Char.png]]::
+![[Byo-Char.png]]::Byo 
 
-![[Pya-Char.png]]::
+![[Pya-Char.png]]::Pya 
 
-![[Pyu-Char.png]]::
+![[Pyu-Char.png]]::Pyu 
 
-![[Pyo-Char.png]]::
+![[Pyo-Char.png]]::Pyo 
 
-![[Mya-Char.png]]::
+![[Mya-Char.png]]::Mya 
 
-![[Myu-Char.png]]::
+![[Myu-Char.png]]::Myu 
 
-![[Myo-Char.png]]::
+![[Myo-Char.png]]::Myo 
 
-![[Rya-Char.png]]::
+![[Rya-Char.png]]::Rya 
 
-![[Ryu-Char.png]]::
+![[Ryu-Char.png]]::Ryu 
 
-![[Ryo-Char.png]]::
+![[Ryo-Char.png]]::Ryo 
 
 
 
