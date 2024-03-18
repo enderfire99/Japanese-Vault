@@ -18,12 +18,12 @@
 ![[Shi-Char.png]]::Shi <!--SR:!2024-04-03,17,290-->
 ![[Su-Char.png]]::Su <!--SR:!2024-04-01,15,290-->
 ![[Se-Char.png]]::Se <!--SR:!2024-03-26,11,270-->
-![[So-Char.png]]::So <!--SR:!2024-03-18,1,210-->
+![[So-Char.png]]::So <!--SR:!2024-03-21,3,230-->
 ![[Za-Char.png]]::Za <!--SR:!2024-04-03,17,290-->
 ![[Ji(Shi Impuro)-Char.png]]::Ji(Shi Impuro) <!--SR:!2024-03-31,14,290-->
 ![[Zu-Char.png]]::Zu <!--SR:!2024-03-28,11,270-->
 ![[Ze-Char.png]]::Ze <!--SR:!2024-03-21,6,250-->
-![[Zo-Char.png]]::Zo <!--SR:!2024-03-18,3,230-->
+![[Zo-Char.png]]::Zo <!--SR:!2024-03-20,2,210-->
 
 ![[Ta-Char.png]]::Ta <!--SR:!2024-03-29,12,270-->
 ![[Chi-Char.png]]::Chi <!--SR:!2024-03-30,13,290-->
@@ -40,7 +40,7 @@
 
 ![[Ni-Char.png]]::Ni <!--SR:!2024-03-23,6,263-->
 
-![[Nu-Char.png]]::Nu <!--SR:!2024-03-18,1,203-->
+![[Nu-Char.png]]::Nu <!--SR:!2024-03-19,1,183-->
 ![[Ne-Char.png]]::Ne <!--SR:!2024-03-19,2,223-->
 
 ![[No-Char.png]]::No <!--SR:!2024-03-19,2,243-->
@@ -52,126 +52,126 @@
 
 ![[He-Char.png]]::He <!--SR:!2024-03-19,2,263-->
 
-![[Ho-Char.png]]::Ho <!--SR:!2024-03-18,1,203-->
+![[Ho-Char.png]]::Ho <!--SR:!2024-03-19,1,183-->
 
 ![[Ba-Char.png]]::Ba <!--SR:!2024-03-19,2,243-->
 
-![[Bi-Char.png]]::Bi <!--SR:!2024-03-18,3,263-->
+![[Bi-Char.png]]::Bi <!--SR:!2024-03-27,9,283-->
 
 ![[Bu-Char.png]]::Bu <!--SR:!2024-04-03,17,303-->
 
-![[Be-Char.png]]::Be <!--SR:!2024-03-18,3,263-->
+![[Be-Char.png]]::Be <!--SR:!2024-03-28,10,283-->
 
 ![[Bo-Char.png]]::Bo <!--SR:!2024-03-20,3,243-->
 
 ![[Pa-Char.png]]::Pa <!--SR:!2024-03-19,2,263-->
 
-![[Pi-Char.png]]::Pi <!--SR:!2024-03-18,3,263-->
+![[Pi-Char.png]]::Pi <!--SR:!2024-03-28,10,283-->
 
 ![[Pu-Char.png]]::Pu <!--SR:!2024-04-03,17,303-->
 
-![[Pe-Char.png]]::Pe <!--SR:!2024-03-18,3,263-->
+![[Pe-Char.png]]::Pe <!--SR:!2024-03-31,13,283-->
 
 ![[Po-Char.png]]::Po <!--SR:!2024-04-03,17,303-->
 
 ![[Ma-Char.png]]::Ma <!--SR:!2024-04-04,18,303-->
 
-![[Mi-Char.png]]::Mi <!--SR:!2024-03-18,1,203-->
+![[Mi-Char.png]]::Mi <!--SR:!2024-03-19,1,183-->
 
-![[Mu-Char.png]]::Mu <!--SR:!2024-03-18,1,222-->
+![[Mu-Char.png]]::Mu <!--SR:!2024-03-19,1,202-->
 
 ![[Me-Char.png]]::Me <!--SR:!2024-03-19,2,223-->
 
 ![[Mo-Char.png]]::Mo <!--SR:!2024-03-20,3,243-->
 
-![[Ya-Char.png]]::Ya
+![[Ya-Char.png]]::Ya <!--SR:!2024-03-19,1,247-->
 
 
-![[Yu-Char.png]]::Yu 
+![[Yu-Char.png]]::Yu <!--SR:!2024-03-19,1,247-->
 
-![[Yo-Char.png]]::Yo 
+![[Yo-Char.png]]::Yo <!--SR:!2024-03-22,4,287-->
 
-![[Ra-Char.png]]::Ra 
+![[Ra-Char.png]]::Ra <!--SR:!2024-03-22,4,287-->
 
-![[Ri-Char.png]]::Ri 
+![[Ri-Char.png]]::Ri <!--SR:!2024-03-22,4,287-->
 
-![[Ru-Char.png]]::Ru 
+![[Ru-Char.png]]::Ru <!--SR:!2024-03-19,1,247-->
 
-![[Re-Char.png]]::Re 
+![[Re-Char.png]]::Re <!--SR:!2024-03-22,4,287-->
 
-![[Ro-Char.png]]::Ro 
+![[Ro-Char.png]]::Ro <!--SR:!2024-03-19,1,247-->
 
-![[Wa-Char.png]]::Wa 
+![[Wa-Char.png]]::Wa <!--SR:!2024-03-19,1,247-->
 
-![[Wo-Char.png]]::Wo 
+![[Wo-Char.png]]::Wo <!--SR:!2024-03-19,1,247-->
 
-![[N-Char.png]]::N 
+![[N-Char.png]]::N <!--SR:!2024-03-22,4,287-->
 
-![[Kya-Char.png]]::Kya 
+![[Kya-Char.png]]::Kya <!--SR:!2024-03-19,1,247-->
 
-![[Kyu-Char.png]]::Kyu 
+![[Kyu-Char.png]]::Kyu <!--SR:!2024-03-22,4,287-->
 
-![[Kyo-Char.png]]::Kyo 
+![[Kyo-Char.png]]::Kyo <!--SR:!2024-03-22,4,287-->
 
-![[Gya-Char.png]]::Gya 
+![[Gya-Char.png]]::Gya <!--SR:!2024-03-22,4,287-->
 
-![[Gyu-Char.png]]::Gyu 
+![[Gyu-Char.png]]::Gyu <!--SR:!2024-03-19,1,247-->
 
-![[Gyo-Char.png]]::Gyo 
+![[Gyo-Char.png]]::Gyo <!--SR:!2024-03-22,4,287-->
 
-![[Sha-Char.png]]::Sha 
+![[Sha-Char.png]]::Sha <!--SR:!2024-03-22,4,287-->
 
-![[Shu-Char.png]]::Shu 
+![[Shu-Char.png]]::Shu <!--SR:!2024-03-22,4,287-->
 
-![[Sho-Char.png]]::Sho 
+![[Sho-Char.png]]::Sho <!--SR:!2024-03-21,3,267-->
 
-![[Ja-Char.png]]::Ja 
+![[Ja-Char.png]]::Ja <!--SR:!2024-03-22,4,287-->
 
-![[Ju-Char.png]]::Ju 
+![[Ju-Char.png]]::Ju <!--SR:!2024-03-22,4,287-->
 
-![[Jo-Char.png]]::Jo 
+![[Jo-Char.png]]::Jo <!--SR:!2024-03-22,4,287-->
 
-![[Cha-Char.png]]::Cha 
+![[Cha-Char.png]]::Cha <!--SR:!2024-03-22,4,287-->
 
-![[Chu-Char.png]]::Chu 
+![[Chu-Char.png]]::Chu <!--SR:!2024-03-22,4,287-->
 
-![[Cho-Char.png]]::Cho 
+![[Cho-Char.png]]::Cho <!--SR:!2024-03-22,4,287-->
 
-![[Nya-Char.png]]::Nya 
+![[Nya-Char.png]]::Nya <!--SR:!2024-03-22,4,287-->
 
-![[Nyu-Char.png]]::Nyu 
+![[Nyu-Char.png]]::Nyu <!--SR:!2024-03-22,4,287-->
 
-![[Nyo-Char.png]]::Nyo 
+![[Nyo-Char.png]]::Nyo <!--SR:!2024-03-22,4,287-->
 
-![[Hya-Char.png]]::Hya 
+![[Hya-Char.png]]::Hya <!--SR:!2024-03-22,4,287-->
 
-![[Hyu-Char.png]]::Hyu 
+![[Hyu-Char.png]]::Hyu <!--SR:!2024-03-22,4,287-->
 
-![[Hyo-Char.png]]::Hyo 
+![[Hyo-Char.png]]::Hyo <!--SR:!2024-03-22,4,287-->
 
-![[Bya-Char.png]]::Bya 
+![[Bya-Char.png]]::Bya <!--SR:!2024-03-22,4,287-->
 
-![[Byu-Char.png]]::Byu 
+![[Byu-Char.png]]::Byu <!--SR:!2024-03-22,4,287-->
 
-![[Byo-Char.png]]::Byo 
+![[Byo-Char.png]]::Byo <!--SR:!2024-03-21,3,267-->
 
-![[Pya-Char.png]]::Pya 
+![[Pya-Char.png]]::Pya <!--SR:!2024-03-22,4,287-->
 
-![[Pyu-Char.png]]::Pyu 
+![[Pyu-Char.png]]::Pyu <!--SR:!2024-03-22,4,287-->
 
-![[Pyo-Char.png]]::Pyo 
+![[Pyo-Char.png]]::Pyo <!--SR:!2024-03-22,4,287-->
 
-![[Mya-Char.png]]::Mya 
+![[Mya-Char.png]]::Mya <!--SR:!2024-03-22,4,287-->
 
-![[Myu-Char.png]]::Myu 
+![[Myu-Char.png]]::Myu <!--SR:!2024-03-19,1,247-->
 
-![[Myo-Char.png]]::Myo 
+![[Myo-Char.png]]::Myo <!--SR:!2024-03-19,1,247-->
 
-![[Rya-Char.png]]::Rya 
+![[Rya-Char.png]]::Rya <!--SR:!2024-03-22,4,287-->
 
-![[Ryu-Char.png]]::Ryu 
+![[Ryu-Char.png]]::Ryu <!--SR:!2024-03-22,4,287-->
 
-![[Ryo-Char.png]]::Ryo 
+![[Ryo-Char.png]]::Ryo <!--SR:!2024-03-19,1,247-->
 
 
 
